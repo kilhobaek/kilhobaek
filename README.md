@@ -3,13 +3,6 @@ I am a **Ph.D. Candidate in Planetary Science** at Kyung Hee University, special
 
 [📄 Download CV (PDF)](https://drive.google.com/file/d/1SZDmw-huZi2oaFZeimcNpWAADrW8KPPk/view?usp=drive_link)
 
-## Research Interests
-- **Surface Processes:** Space weathering and impact gardening on airless bodies.
-- **Polarimetry:** Polarimetric properties of lunar regolith, albedo variations, and phase angle analysis.
-- **Data Processing:** Camera/geometric/radiometric/photometric/absolute calibration for orbital data.
-- **Space Environment:** solar-wind particles, sporadic meteoroids and meteoroid streams.
-- **Remote Sensing:** Interpretation of orbital mission imagery and mapping physical properties of planetary surfaces.
-
 <!-- https://simpleicons.org/ -->
 <!-- https://badges.pages.dev/ -->
 ## E-mail & Links
