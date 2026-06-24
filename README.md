@@ -1,5 +1,6 @@
-## About Me
-I am a **Ph.D. Candidate in Planetary Science** at Kyung Hee University, specializing in **Lunar Science and Orbital Data Calibration**. My research focuses on lunar surface evolution, space weathering, and the calibration of orbital observation instruments.
+## Profile
+- Ph.D. Candidate in Planetary Science at Kyung Hee University
+- Main Topic: Lunar surface peocesses and orbital data calibration.
 
 [📄 Download CV (PDF)](https://drive.google.com/file/d/1SZDmw-huZi2oaFZeimcNpWAADrW8KPPk/view?usp=drive_link)
 
