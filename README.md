@@ -1,6 +1,7 @@
 ## Profile
 - Ph.D. Candidate in Planetary Science at Kyung Hee University
-- Main Topic: Lunar surface peocesses and orbital data calibration.
+- Studying global surface processes on the Moon using orbital data.
+- Leading the data processing and calibration for the Danuri/PolCam mission.
 
 [📄 Download CV (PDF)](https://drive.google.com/file/d/1SZDmw-huZi2oaFZeimcNpWAADrW8KPPk/view?usp=drive_link)
 
