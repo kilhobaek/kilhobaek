@@ -2,7 +2,6 @@
 - Ph.D. Candidate in Planetary Science at Kyung Hee University
 - Studying global surface processes on the Moon using orbital data.
 - Leading the data processing and calibration for the Danuri/PolCam mission.
-
 - Download CV: [Short Version (PDF)](https://drive.google.com/file/d/1SZDmw-huZi2oaFZeimcNpWAADrW8KPPk/view?usp=drive_link)
 
 <!-- https://simpleicons.org/ -->
